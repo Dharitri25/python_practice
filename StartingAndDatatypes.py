@@ -60,7 +60,7 @@ sdsds'''
 # for x in "banana":
 #   print(x)
 
-x= 'dharitri m'
+# x= 'dharitri m'
 # print('i' in x)
 # print('i' not in x)
 # print(x[1:4])
@@ -74,7 +74,7 @@ x= 'dharitri m'
 # print(x.replace('d','s'))
 # print(x.split(" "))
 
-y= 'dharitri'
+# y= 'dharitri'
 # print(y.rjust(20,'.'))
 # print(y.center(21))
 # print(y.ljust(20,'.'))
