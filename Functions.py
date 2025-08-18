@@ -239,3 +239,31 @@
 
 # 17. Write a recursive function fibonacci(n) that returns the nth Fibonacci number.
 # def fibonacci(n):
+
+
+
+
+
+
+# LAMBDA Function:
+# variable = lambda arg : expression
+# lambda function is shown powerful when being used inside a function as an anonymous function.
+# example:
+# x = lambda a: a +10
+# print(x(5))
+
+# x = lambda a,b, c:a+b+c
+# print(x(9,10,11))
+
+# def myfunc(n):
+#   return lambda a : a * n
+# mydoubler = myfunc(2) #n = 2
+# print(mydoubler(11)) # a = 11
+
+# def myFunc(n):
+#     return lambda a : a * n
+# getDouble = myFunc(2)
+# getTripple = myFunc(3)
+
+# print(getDouble(2))
+# print(getTripple(3))
